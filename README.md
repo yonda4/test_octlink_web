@@ -1,2 +1,5 @@
-# test_octlink_web
+﻿# test_octlink_web
 テスト_オクトリンクのスマートフォン用ウェブサイト
+
+# 内容
+テスト
